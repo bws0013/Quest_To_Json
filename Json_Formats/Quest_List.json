@@ -1,0 +1,13 @@
+{
+  "Quests": [
+
+    {
+      "name": "QuestName",
+      "members": true,
+      "difficulty": "novice",
+      "length": "medium",
+      "points": 2,
+      "series": "N/A"
+    }
+  ]
+}
